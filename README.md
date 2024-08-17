@@ -42,10 +42,8 @@ Ensure you have a file named song.mp3 in the project directory or modify the scr
 ## Output
 Screenshot: ![Screenshot 2024-08-17 124058](https://github.com/user-attachments/assets/2d863916-b79e-44b2-8ff7-1e8da871b9dd)
 
-Video Recording: ![Video Thumbnail][https://github.com/user-attachments/assets/4392e2f0-6399-480a-806f-1041f00eb056]
+Output Recording: https://github.com/user-attachments/assets/4392e2f0-6399-480a-806f-1041f00eb056
 
-https://github.com/Allminfatima/TurtleArtWithMusic/blob/main/rec.mp4
-  
 
 ## Contributing
 Feel free to submit issues or pull requests if you have improvements or bug fixes.
