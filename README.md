@@ -44,6 +44,9 @@ Screenshot: ![Screenshot 2024-08-17 124058](https://github.com/user-attachments/
 
 Video Recording: ![Video Thumbnail][https://github.com/user-attachments/assets/4392e2f0-6399-480a-806f-1041f00eb056]
 
+<video src="https://user-images.githubusercontent.com/Allminfatima/rec.mp4" controls="controls" style="max-width: 100%; height: auto;">
+    Your browser does not support the video tag.
+</video>
 
 ## Contributing
 Feel free to submit issues or pull requests if you have improvements or bug fixes.
